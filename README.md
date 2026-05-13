@@ -1,7 +1,4 @@
 # knuck_if_u_buck (12v→5v_buck_converter)
-![knuck_if_u_buck](v2.0/hardware/images/repo_img/hero.png)
-
-# KNUCK_IF_YOU_BUCK (BUCK_CONVERTER)
 
 Custom LMR51430 buck converter PCB (12V → 5V @ ~0.5A, designed with ~1A headroom).
 
@@ -29,5 +26,5 @@ Layout priorities
 	•	Keep SW copper small (short + compact)
 	•	Solid ground reference near power stage
 
+Early project for learning and and gaining a better understanding of a buck converter.
  
-designed & engineered by brandon shelly
